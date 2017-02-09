@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "timercap_demo-executor",
+    "name": "timercap_demo",
+    "region": "us-west-1"
+  },
+  "api": {
+    "id": "2kug7jrwjj",
+    "module": "bot"
+  }
+}
